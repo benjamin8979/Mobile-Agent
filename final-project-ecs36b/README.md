@@ -1,6 +1,6 @@
 # Mobile Agent Demo Project
 
-This is demo for how a mobile agent could perform certain tasks to aid a user in responding to messages and staying caught up on daily social media information.
+This is a demo for how a mobile agent could perform certain tasks to aid a user in responding to messages and staying caught up on daily social media information.
 
 # Scenario.cpp
 
