@@ -9,14 +9,14 @@ Scenario.cpp is the driver function that displays a particular scenario for the 
 ## usage
 
 To Compile
-'''bash
+```bash
 $ g++ -std=c++2a *.cpp -o agent
-'''
+```
 
 To Execute:
-'''bash
+```bash
 $ ./agent
-'''
+```
 
 # Agent.cpp
 
